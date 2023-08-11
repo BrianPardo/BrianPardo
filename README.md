@@ -5,12 +5,10 @@ Hi, I’m Brian Pardo, and I recently completed a PhD in theoretical astrophysic
 - I’m looking to collaborate on machine learning, data science, and physics projects!
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/brian-a-pardo/)
 
-#### Completed Data Projects
-
 #### Technical skills
 
 - Mathematics and Physics: Linear algebra, differential equations, multivariate calculus, statistics, effective field theories, general relativity
-- Programming: Python (numpy, scikit-learn, pytorch, matplotlib, Jupyter notebooks), MATLAB, Mathematica, C++, git, linux
+- Programming: Python (numpy, scikit-learn, pytorch, matplotlib, Jupyter notebooks), MATLAB, Mathematica, C++, Git, Linux
 - Machine Learning: Data engineering, data visualization, deep learning frameworks, convolutional neural networks, optimization techniques
 
 #### Other skills
