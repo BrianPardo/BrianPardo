@@ -1,8 +1,8 @@
 #### About Me
 
 Hi, I’m Brian Pardo, and I recently completed a PhD in theoretical astrophysics at the University of Pittsburgh.
-- I’m interested in high-impact applications of machine learning and data science and continuing to learn new tools and techniques
-- I’m looking to collaborate on machine learning, data science, and physics projects!
+- I’m interested in high-impact applications of quantum computing, machine learning and data science and continuing to learn new tools and techniques
+- I’m looking to collaborate on machine learning and physics projects!
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/brian-a-pardo/)
 
 #### Technical skills
