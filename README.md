@@ -1,14 +1,14 @@
 #### About Me
 
-Hi, I’m Brian Pardo, and I recently completed a PhD in theoretical astrophysics at the University of Pittsburgh.
+Hi, I’m Brian Pardo. I'm an NRC postdoctoral fellow with the Air Force Research Lab in Rome, NY, though I'm based in New York City.
 - I’m interested in high-impact applications of quantum computing, machine learning and data science and continuing to learn new tools and techniques
 - I’m looking to collaborate on machine learning and physics projects!
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/brian-a-pardo/)
 
 #### Technical skills
 
-- Mathematics and Physics: Linear algebra, differential equations, multivariate calculus, statistics, effective field theories, general relativity
-- Programming: Python (numpy, scikit-learn, pytorch, matplotlib, Jupyter notebooks), MATLAB, Mathematica, C++, Git, Linux
+- Mathematics and Physics: Linear algebra, differential equations, multivariate calculus, statistics, effective field theories, general relativity, quantum computing
+- Programming: Python (Qiskit, numpy, scikit-learn, pytorch, matplotlib, Jupyter notebooks), MATLAB, Mathematica, C++, Git, Linux
 - Machine Learning: Data engineering, data visualization, deep learning frameworks, convolutional neural networks, optimization techniques
 
 #### Other skills
